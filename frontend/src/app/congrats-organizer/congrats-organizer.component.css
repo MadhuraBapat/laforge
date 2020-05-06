@@ -1,0 +1,48 @@
+
+.Organizer-Congratulations{
+    margin: 128px auto;
+    max-width: 600px;
+    background: rgba(130, 130, 130, 0.18);
+    padding-bottom: 100px;
+    border: 1px solid #f2c300;
+    border-radius: 13px;
+}
+.Organizer-Congratulations .OrgCongratulations-Text {
+    text-align: center;
+    color:  #f2c300;
+    font-weight: bold;
+    font-size:36px;
+    font-family: Arial;
+    margin-left: 0px;
+    margin-right: 160px;
+    padding-top: 20px;
+}
+.Organizer-Congratulations .OrgMessage   {
+    color: #f2c300;
+    margin-left: 85px;
+    margin-right: 55px;
+    padding-top: 10px; 
+    font-weight:normal;
+    font-family: Arial;
+}
+.Organizer-Congratulations .OrgProfile-Btn {
+    display: block;
+    max-width: 500px;
+    text-align: center;
+    padding: 12px 100px;
+    font-size: 25px;
+    font-family: Arial;
+    background-color: #5384f7;
+    border-radius: 30px;
+    margin: 30px auto;
+    border: none;
+    margin-top: 60px;
+    margin-bottom: 0px;
+   
+}
+.Organizer-Congratulations .OrgProfile-Btn:focus {
+    outline :none;
+}
+.Organizer-Congratulations .OrgProfile-Btn:hover {
+    cursor: pointer;
+}

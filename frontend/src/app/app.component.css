@@ -1,0 +1,32 @@
+
+.header {
+    padding: 40px 50px;
+    padding-top: 40px;
+    padding-bottom: 18px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: black;
+}
+.header .icon {
+    display: inline-block;
+    color: #f2c300;
+    font-size: 42px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.header .Signin {
+    float: right;
+    color: #f2c300;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.header .Signin a {
+    color: #5384f7;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.header-divider {
+    padding: 2px;
+    background-image: linear-gradient(to right, #f2c300, #5384f7);
+}

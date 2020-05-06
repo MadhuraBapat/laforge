@@ -1,0 +1,249 @@
+
+.Volunteer{
+    position: absolute;
+width: 950px;
+height: 776px;
+left: 45px;
+top: 202px;
+
+background: rgba(130, 130, 130, 0.18);
+border-radius: 20px;
+}
+.Text {
+    position: relative;
+width: 150px;
+height: 20px;
+left: 85px;
+top: 28px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: start;
+
+color: #F2C300;
+}
+
+.smallText {
+    position: relative;
+width: 150px;
+height: 20px;
+left: 85px;
+top: 228px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 42px;
+text-align: start;
+
+color: #F2C300;
+}
+.Box{
+    position: relative;
+width: 874px;
+height: 52px;
+
+top: 105px;
+
+background: #5486FB;
+
+box-shadow: 0px 10px 20px #000000;
+border-radius: 20px;
+}
+
+.RUBox
+{
+
+    position: relative;
+    width: 304px;
+    height: 375px;
+    left: 1089px;
+    top: 80px;
+    
+    background: rgba(130, 130, 130, 0.18);
+    border-radius: 20px;
+}
+
+.RLBox{
+    position: relative;
+width: 304px;
+height: 375px;
+left: 1087px;
+top: 80px;
+
+background: rgba(130, 130, 130, 0.18);
+border-radius: 20px;
+}
+.smallbox{
+    position: relative;
+width: 207px;
+height: 31px;
+left: 1138px;
+
+
+background: #F2C300;
+box-shadow: 0px 10px 20px #000000;
+border-radius: 50px;
+}
+
+.Boxru{
+    position: relative;
+width: 224px;
+height: 52px;
+left: 40px;
+top: 105px;
+
+background: #5486FB;
+
+box-shadow: 0px 10px 20px #000000;
+border-radius: 20px;
+}
+
+.Boxruhover:hover{
+    position: relative;
+width: 224px;
+height: 52px;
+left: 40px;
+top: 105px;
+
+background: #F2C300;
+
+box-shadow: 0px 10px 20px #000000;
+border-radius: 20px;
+}
+
+.selected{
+    position: relative;
+width: 224px;
+height: 52px;
+left: 40px;
+top: 105px;
+
+background: #F2C300;
+
+box-shadow: 0px 10px 20px #000000;
+border-radius: 20px;
+}
+
+.Rectangle{
+    position: relative;
+width: 100px;
+height: 25px;
+left: 734px;
+
+
+
+
+background: #F2C300;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+}
+.Remove{
+position: absolute;
+width: 23px;
+height: 23px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+background: url(/src/assets/images/Black-X-Letter-PNG-Free-Image.png);
+}
+
+.Volunteer.Message   {
+    color: #f2c300;
+    margin-left: 85px;
+    margin-right: 55px;
+    padding-top: 10px; 
+    font-weight:normal;
+    font-family: Arial;
+}
+.Volunteer.Home-Btn {
+    display: block;
+    max-width: 500px;
+    text-align: center;
+    padding: 12px 100px;
+    font-size: 25px;
+    font-family: Arial;
+    background-color: #5384f7;
+    border-radius: 30px;
+    margin: 30px auto;
+    border: none;
+    margin-top: 60px;
+    margin-bottom: 0px;
+   
+}
+.Volunteer.Home-Btn:focus {
+    outline :none;
+}
+.Volunteer.Home-Btn:hover {
+    cursor: pointer;
+}
+.listtext{
+    position: relative;
+width: 164px;
+height: 25px;
+left: 15px;
+top: 5px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+white-space: nowrap ;
+color: #000000;
+}
+
+.groupbutton{
+    position: relative;
+width: 154px;
+height: 27px;
+margin-left: 3em;
+
+
+background: #F2C300;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+}
+
+.addmember{
+
+    position: relative;
+    width: 874px;
+    height: 52px;
+    
+    top: 105px;
+    
+
+background: rgba(84, 134, 251, 0.7);
+border-radius: 20px;
+}
+
+.popup{
+    position: relative;
+width: 981px;
+height: 698px;
+left: 229px;
+top: 188px;
+visibility: hidden;
+background: #000000;
+border-radius: 20px;
+}
+
+.popup .show {
+    visibility: visible;
+
+  }
+  
+

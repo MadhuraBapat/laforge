@@ -1,0 +1,85 @@
+
+.sign-up {
+    margin: 50px auto;
+    max-width: 500px;
+    background: rgba(130, 130, 130, 0.18);
+    border: 1px solid #f2c300;
+    border-radius: 8px;
+}
+.sign-up .sign-text, .sign-up .sign-desc {
+    /* text-align: center; */
+    color: #f2c300;
+    margin-left: 70px;
+    margin-bottom: 0px;
+}
+.sign-up .sign-text {
+    font-size: 24px;
+    /* padding-top: 20px; */
+}
+.sign-up .sign-desc {
+    /* max-width: 400px; */
+    font-size: 14px;
+    /* margin: 0 auto; */
+}
+.sign-up .submit-btn {
+    padding: 6px 50px;
+    font-size: 16px;
+    background-color: #5384f7;
+    border-radius: 30px;
+    margin-left: 40px;
+    min-width: 0;
+    border: none;
+}
+.sign-up .submit-btn:focus {
+    outline :none;
+}
+.sign-up .submit-btn:hover {
+    cursor: pointer;
+}
+.form-wrapper {
+    margin: 40px 0px;
+}
+.info-form label {
+    margin-left: 70px;
+    font-size: 18px;
+    
+    color:#f2c300;
+}
+.info-form input{
+    font-size: 16px;
+    background-color: rgba(83, 132, 247, 0.7);
+    border-radius: 30px;
+    border: none;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    padding: 4px 10px;
+    min-width: 220px;
+}
+.submit {
+    margin: 0 auto;
+    max-width: 350px;
+}
+.sign-up .org-btn {
+    padding: 6px 30px;
+    font-size: 16px;
+    background-color: transparent;
+    color: #f2c300;
+    border-radius: 30px;
+    border: 1px solid #f2c300;
+}
+.sign-up .org-btn:focus {
+    outline :none;
+}
+.sign-up .org-btn:hover {
+    cursor: pointer;
+}
+
+.info-form .email-input {
+    margin-left: 65px;
+}
+.info-form .pwd-input {
+    margin-left: 40px;
+}
+.info-form input:focus {
+    outline :none;
+}
